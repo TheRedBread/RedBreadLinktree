@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;RedBread;;;
+FN:RedBread
+ORG:
+ADR;TYPE=WORK:
+TITLE:I do Pixelart, music, programming and gamedev.
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:
+URL;TYPE=Digital Business Card:
+URL:
+URL;TYPE=GitHub:https://github.com/TheRedBread
+URL;TYPE=Discord:the_red_bread
+URL;TYPE=Soundcloud:https://soundcloud.com/redbread-103312949
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100866399
+END:VCARD
